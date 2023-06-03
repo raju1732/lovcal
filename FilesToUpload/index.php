@@ -16,7 +16,7 @@ Twitter - https://twitter.com/spongebhav
    </head>
    <body>
       <div class="section">
-         <h1><span>How much does your partner love you?</span></h1>
+         <h1><span>Calculat from here</span></h1>
          <br>
          <div align = "center">
             <svg height="50" width="00"> </svg>
